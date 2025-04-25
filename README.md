@@ -1,12 +1,15 @@
 ## 📌 Introduction
 This is a basic ASP.NET Core 9 CRUD (Create, Read, Update, Delete) web application that manages a list of persons with their respective details such as name, email, age, gender, country, and more. The app allows users to:
 
-Add a new person
-Edit existing entries
-Delete a person
-Search and filter persons based on specific fields
-Sort entries based on different columns
-The user interface is built using Razor views, styled with basic CSS, and leverages server-side rendering for all actions.
+### 💡 Features
+
+- Add a new person
+- Edit existing entries
+- Delete a person
+- Search and filter persons based on specific fields
+- Sort entries based on different columns
+- Razor Pages frontend with server-side rendering
+
 
 ## 🛠 Tech Stack
 
